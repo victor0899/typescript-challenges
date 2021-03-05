@@ -1,0 +1,17 @@
+{
+  "name": "type-challenges",
+  "version": "0.0.0",
+  "repository": "https://github.com/ravnhq/type-challenges.git",
+  "author": "RavnHQ",
+  "license": "MIT",
+  "scripts": {
+    "format": "yarn prettier ./questions --write"
+  },
+  "devDependencies": {
+    "@ravn-dev/prettier-config": "^0.0.6",
+    "prettier": "^2.2.1"
+  },
+  "dependencies": {
+    "typescript": "^4.2.2"
+  }
+}
