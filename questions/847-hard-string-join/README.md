@@ -1,4 +1,4 @@
-<!--info-header-start--><h1>String Join <img src="https://img.shields.io/badge/-hard-de3d37" alt="hard"/> </h1><blockquote><p>by Matt Davis <a href="https://github.com/tl-matt-davis" target="_blank">@tl-matt-davis</a></p></blockquote><p><a href="https://tsch.js.org/847/play" target="_blank"><img src="https://img.shields.io/badge/-Take%20the%20Challenge-3178c6?logo=typescript&logoColor=white" alt="Take the Challenge"/></a> </p><!--info-header-end-->
+<!--info-header-start--><h1>String Join <img src="https://img.shields.io/badge/-hard-de3d37" alt="hard"/> <p><a href="https://tsch.js.org/847/play" target="_blank"><img src="https://img.shields.io/badge/-Take%20the%20Challenge-3178c6?logo=typescript&logoColor=white" alt="Take the Challenge"/></a> </p><!--info-header-end-->
 
 Create a type-safe string join utility which can be used like so:
 
