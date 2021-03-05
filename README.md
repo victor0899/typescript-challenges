@@ -14,6 +14,14 @@ There are a bunch of awesome type utility libraries may boosting your works on t
 
 This project is aimed at helping you better understand how the type system works, writing your own utilities, or just having fun with the challenges.
 
+## Instructions
+
+There are typescript test cases setup for each challenge. Complete as many challenges as possible. You can check your work with:
+
+```
+yarn tsc
+```
+
 ## Challenges
 
 > Click the following badges to see details of the challenges.
