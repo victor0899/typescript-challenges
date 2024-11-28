@@ -1,1 +1,4 @@
-export type Concat<T, U> = any
+export type Concat<T extends any[], U extends any[]> = [...T, ...U];
+
+
+type Result = Concat<[1], [2]>;
